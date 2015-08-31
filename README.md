@@ -2,4 +2,4 @@
 
 Chalmers course TDA383 lecture notes...
 
-Course page: http://www.cse.chalmers.se/edu/year/2014/course/TDA382/
+Course page: http://www.cse.chalmers.se/edu/course/TDA383/
